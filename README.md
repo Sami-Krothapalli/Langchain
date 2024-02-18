@@ -1,6 +1,6 @@
 # Langchain Learning Repo
 
-This Repo is my learning from practicing LangChain and posting my progress. 
+This Repo is what I learned from practicing LangChain and posting my progress. 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
@@ -14,24 +14,10 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+pip install openai
+pip install python-dotenv
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
+Sami Krothapalli
